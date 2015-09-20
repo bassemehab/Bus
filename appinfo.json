@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "bassemehab94@gmail.com",
+    "longName": "Bus",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Bus",
+    "uuid": "0f8c903d-ddf2-4447-9071-21e3173e1677",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
